@@ -2,7 +2,7 @@
 
 ThinkfulCupid is an online dating and matchmaking website that allows people to meet, date, and network with each other. ThinkfulCupid uses a special algorithm that matches people based on their personality types. It also allows matches to connect with each other regardless of their locations via video conferencing.
 
-For this assignment, you will implement ThinkfulCupid's landing page in HTML & CSS.
+This code repository was a practice in HTML, CSS and creating visually-appealing webpages using tools, particularly flexbox. Additional components include utilizing mobile queries for page-sizing,form creation, establishing input cells for various name properties, drop-down lists,  etc.
 
 ## Thinkfulbnb views
 
@@ -16,29 +16,13 @@ The UX designer provided you with the following user interface mockups:
 
 ![](images/ThinkfulCupid-desktop.png)
 
-### Existing files
 
-| File         | Description                                                             |
-| ------------ | ----------------------------------------------------------------------- |
-| `images/`    | A folder containing all the images used for the design.                 |
-| `index.html` | The starter HTML file. You will need to add your solution to this file. |
-| `style.css`  | The starter css file. You will need to add your solution to this file.  |
 
 You're encouraged to spend some time studying the provided files.
 
 ### Setup
 
 Use VSCode Live Server to launch the `index.html` page in your browser.
-
-### Tasks
-
-For this assignment, you will be following a mobile-first development approach. To pass this assignment, you must complete the tasks detailed below.
-
-You **should** use flexbox, and **not** floats, to achieve the desired layouts. The `.group`, `.item`, and `.item-double` classes are provided in the CSS file for your convenience, but it is not necessary to use them.
-
-You are **NOT** expected to match the designs pixel by pixel, as long as the required layout is satisfied.
-
-Edit the `index.html` and `style.css` as needed to achieve the following requirements:
 
 #### Navigation
 
